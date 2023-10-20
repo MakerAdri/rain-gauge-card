@@ -102,6 +102,8 @@ The following languages are supported:
 | Hungarian | `ha`       | v1.3.1    | [@erelke](https://github.com/erelke)                                                |
 | Portuguese| `pt`       | v1.1.0    | [@ViPeR5000](https://github.com/viper5000)                                          |
 | Slovenian | `sl`       | v1.1.0    | [@mnheia](https://github.com/mnheia)                                                |
+| Spanish   | `es`       | v1.1.0    | [@MakerAdri](https://github.com/MakerAdri)                                          |
+| Catalan   | `ca`       | v1.1.0    | [@MakerAdri](https://github.com/MakerAdri)                                          |
 
 #### How to add a language
 
