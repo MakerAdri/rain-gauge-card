@@ -1,0 +1,10 @@
+{
+  "common": {
+    "version": "Versió",
+    "invalid_configuration": "Configuració no vàlida",
+    "show_warning": "Mostra avís",
+    "show_error": "Mostra l'error",
+    "rate": "Taxa",
+    "total": "Total"
+  }
+}
